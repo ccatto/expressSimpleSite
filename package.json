@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/ccatto/expressSimpleSite/issues"
   },
-  "homepage": "https://github.com/ccatto/expressSimpleSite#readme"
+  "homepage": "https://github.com/ccatto/expressSimpleSite#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
 }
